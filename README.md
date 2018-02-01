@@ -1,6 +1,6 @@
 # Git-basic
 
-* Comándos básicos para el trabajo con Git *
+> Comándos básicos para el trabajo con Git 
 
 ## Creamos un repositorio vacío
 
