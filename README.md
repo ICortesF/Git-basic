@@ -62,7 +62,7 @@ git add \<filename>
 *Antes de fusionar los cambios, puedes revisarlos usando*  
 git diff <source_branch> <target_branch>  
 
-### Datos útiles  
+## Datos útiles  
 
 *Interfaz gráfica por defecto*  
 gitk  
