@@ -5,7 +5,7 @@
 ## Creamos un repositorio vacío
 
 echo "# Git-basic" >> README.md  
- '*Muestra texto en pantalla*'
+*Muestra texto en pantalla*
 
 git init  
 ' Inicializa git en la carpeta
