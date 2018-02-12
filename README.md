@@ -40,7 +40,7 @@ git checkout master
 git branch -d feature_x  
 *y borra la rama*
 
-git branch
+git branch  
 *nos nuestra las ramas*
 
 ### Una rama nueva no estará disponible para los demás a menos que subas (push) la rama a tu repositorio remoto
