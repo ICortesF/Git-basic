@@ -20,7 +20,7 @@ git commit -m "first commit"
 Agregamos los cambios al repositorio local
 
 git remote add origin https://github.com/ICortesF/Git-basic.git  
-conecatmos con el origen remoto
+conecatamos con el origen remoto
 
 git push -u origin master  
 Subimos los cambios al repositorio remoto
