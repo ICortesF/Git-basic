@@ -45,3 +45,19 @@ git branch
 
 ### Una rama nueva no estará disponible para los demás a menos que subas (push) la rama a tu repositorio remoto
 git push origin \<branch>  
+
+## Juntar cambios
+
+git pull
+*actualizar tu repositorio local al commit más nuevo*
+
+git merge \<branch>
+*fusionar otra rama a tu rama activa*
+
+### Si se producen conflictos.  
+
+*Tú eres responsable de fusionar esos conflictos manualmente al editar los archivos mostrados por git. Después de modificarlos, necesitas marcarlos como fusionados con*  
+git add \<filename>  
+
+*Antes de fusionar los cambios, puedes revisarlos usando*  
+git diff <source_branch> <target_branch>  
