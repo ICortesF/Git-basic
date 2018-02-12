@@ -79,8 +79,8 @@ gitk
 *Colores especiales para la consola*  
 git config color.ui true  
 
-*Mostrar sólo una línea por cada commit en la traza *  
+*Mostrar sólo una línea por cada commit en la traza*  
 git config format.pretty oneline  
 
-*Agregar archivos de forma interactiva *  
+*Agregar archivos de forma interactiva*  
 git add -i  
