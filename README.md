@@ -44,4 +44,4 @@ git branch
 *nos nuestra las ramas*
 
 ### Una rama nueva no estará disponible para los demás a menos que subas (push) la rama a tu repositorio remoto
-git push origin \'<branch>  
+git push origin \<branch>  
