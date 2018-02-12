@@ -25,3 +25,6 @@ conecatmos con el origen remoto
 git push -u origin master
 Subimos los cambios al repositorio remoto
 
+## Clonamos un repositorio existente
+git clone git://github.com/schacon/grit.git
+
