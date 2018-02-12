@@ -61,3 +61,17 @@ git add \<filename>
 
 *Antes de fusionar los cambios, puedes revisarlos usando*  
 git diff <source_branch> <target_branch>  
+
+### Datos útiles  
+
+*Interfaz gráfica por defecto*  
+gitk  
+
+*Colores especiales para la consola*  
+git config color.ui true  
+
+* Mostrar sólo una línea por cada commit en la traza *  
+git config format.pretty oneline  
+
+* Agregar archivos de forma interactiva *  
+git add -i  
