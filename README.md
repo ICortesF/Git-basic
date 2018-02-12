@@ -48,11 +48,11 @@ git push origin \<branch>
 
 ## Juntar cambios
 
-git pull
-*actualizar tu repositorio local al commit más nuevo*
+git pull  
+*actualizar tu repositorio local al commit más nuevo*  
 
-git merge \<branch>
-*fusionar otra rama a tu rama activa*
+git merge \<branch>  
+*fusionar otra rama a tu rama activa*  
 
 ### Si se producen conflictos.  
 
